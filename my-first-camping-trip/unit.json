@@ -1,0 +1,386 @@
+{
+ "slug": "my-first-camping-trip",
+ "title_ko": "My First Camping Trip",
+ "title_en": "ដំណើរបោះតង់លើកដំបូងរបស់ខ្ញុំ",
+ "subtitle": "Power Up 6 · Literature (pp. 60–61)",
+ "description": "A camping adventure story about overcoming fear, mystery, and teamwork: picture cards with native English voice, reading comprehension Q&A, and vocabulary.",
+ "sections": [
+  {
+   "id": "pack",
+   "ko": "Packing & Departure",
+   "en": "ការវេចខ្ចប់ និងការចេញដំណើរ",
+   "color": "#0052A4"
+  },
+  {
+   "id": "arrive",
+   "ko": "Arriving at Camp",
+   "en": "ការមកដល់កន្លែងបោះតង់",
+   "color": "#00A84D"
+  },
+  {
+   "id": "story",
+   "ko": "Joe's Campfire Story",
+   "en": "រឿងនិទានជុំវិញភ្នក់ភ្លើង",
+   "color": "#EF7C1C"
+  },
+  {
+   "id": "woods",
+   "ko": "Mystery in the Woods",
+   "en": "អាថ៌កំបាំងក្នុងព្រៃ",
+   "color": "#996CAC"
+  },
+  {
+   "id": "truth",
+   "ko": "The Scarecrow's Secret",
+   "en": "អាថ៌កំបាំងរបស់មនុស្សចំបើង",
+   "color": "#CD7C2F"
+  }
+ ],
+ "spine": {
+  "title": "Story Route · ដំណាក់កាលនៃរឿង",
+  "note": "Follow the journey in order: packing bags, arriving in the dark, campfire legend, the spooky woods, and finding the tent poles."
+ },
+ "explain": {
+  "title": "At a Glance · មើលត្រួសៗ",
+  "why": "Facing new places in the dark can feel frightening, but staying calm, laughing together, and looking for facts turn fear into courage.",
+  "tiles": [
+   {
+    "img": "img/x-backpack.svg",
+    "ko": "Pack bags",
+    "en": "Get ready for camp",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/x-moon.svg",
+    "ko": "Pitch black",
+    "en": "Arrive late at night",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/x-campfire.svg",
+    "ko": "Campfire",
+    "en": "Hot chocolate & stories",
+    "color": "#EF7C1C"
+   },
+   {
+    "img": "img/x-scarecrow.svg",
+    "ko": "Scarecrow",
+    "en": "Campfire legend",
+    "color": "#996CAC"
+   },
+   {
+    "img": "img/x-tent.svg",
+    "ko": "Found poles",
+    "en": "Courage beats fear",
+    "color": "#CD7C2F"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "pack",
+   "img": "img/c01-backpack.svg",
+   "flat": true,
+   "alt": "Students packing bags at adventure camp",
+   "hook": "pack our bags",
+   "ko": "One Friday night at our adventure camp, our instructors Joe and Natalie told us to pack our bags.",
+   "en": "នៅយប់ថ្ងៃសុក្រមួយនៅជំរំផ្សងព្រេង គ្រូបង្ហាត់របស់យើង Joe និង Natalie បានប្រាប់ពួកយើងឱ្យរៀបចំកាតាប។",
+   "audio": "audio/c01.mp3"
+  },
+  {
+   "sec": "pack",
+   "img": "img/c02-fishing.svg",
+   "flat": true,
+   "alt": "Excited for fishing and exploring",
+   "hook": "explore & fish",
+   "ko": "I was thrilled to explore the countryside and learn how to fish, but Sophie wanted to stay and go swimming.",
+   "en": "ខ្ញុំរំភើបចិត្តចង់ដើរលេងនៅជនបទ និងរៀនស្ទូចត្រី ប៉ុន្តែ Sophie ចង់នៅហែលទឹកវិញ។",
+   "audio": "audio/c02.mp3"
+  },
+  {
+   "sec": "arrive",
+   "img": "img/c03-moon.svg",
+   "flat": true,
+   "alt": "Dark campsite under the moonlight",
+   "hook": "pitch black",
+   "ko": "There was lots of traffic and it was pitch black when we arrived, with the only light coming from the moon.",
+   "en": "មានការកកស្ទះចរាចរណ៍យ៉ាងខ្លាំង ហើយពេលយើងទៅដល់ គឺងងឹតស្លុបដោយមានតែពន្លឺព្រះច័ន្ទប៉ុណ្ណោះ។",
+   "audio": "audio/c03.mp3"
+  },
+  {
+   "sec": "arrive",
+   "img": "img/c04-chocolate.svg",
+   "flat": true,
+   "alt": "Mug of hot chocolate and missing tent poles",
+   "hook": "tent poles",
+   "ko": "Joe gave us hot chocolate to keep us calm, but when it was time to put up the tent, the tent poles were missing!",
+   "en": "Joe បានឱ្យយើងផឹកសូកូឡាក្តៅដើម្បីបន្ធូរអារម្មណ៍ ប៉ុន្តែពេលដល់ពេលត្រូវបោះតង់ ស្រាប់តែរកបង្គោលតង់មិនឃើញ!",
+   "audio": "audio/c04.mp3"
+  },
+  {
+   "sec": "arrive",
+   "img": "img/c05-stars.svg",
+   "flat": true,
+   "alt": "Stars shining above the campers",
+   "hook": "sleep under stars",
+   "ko": "'Don't worry, this will be a great test! We'll just have to sleep under the stars tonight!' Joe said.",
+   "en": "Joe និយាយថា «កុំបារម្ភអី នេះជាការសាកល្បងដ៏អស្ចារ្យ! យប់នេះយើងនឹងគេងក្រោមពន្លឺផ្កាយ!»។",
+   "audio": "audio/c05.mp3"
+  },
+  {
+   "sec": "story",
+   "img": "img/c06-campfire.svg",
+   "flat": true,
+   "alt": "Campfire with roasted marshmallows and story time",
+   "hook": "campfire story",
+   "ko": "We toasted marshmallows by the campfire as Joe started telling us a spooky story about a mysterious scarecrow.",
+   "en": "យើងបានដុតស្ករគ្រាប់ម៉ាសម៉ាឡូជុំវិញភ្នក់ភ្លើង ពេលដែល Joe ចាប់ផ្តើមនិទានរឿងខ្មោចអំពីមនុស្សចំបើងដ៏អាថ៌កំបាំង។",
+   "audio": "audio/c06.mp3"
+  },
+  {
+   "sec": "woods",
+   "img": "img/c07-straw.svg",
+   "flat": true,
+   "alt": "Trail of yellow straw, socks, and trousers in the forest",
+   "hook": "straw on the path",
+   "ko": "The next morning, Sophie and I walked through the forest and began seeing trails of straw, socks, and muddy trousers.",
+   "en": "ព្រឹកបន្ទាប់ ខ្ញុំនិង Sophie បានដើរកាត់ព្រៃ ហើយចាប់ផ្តើមឃើញកំទេចចំបើង ស្រោមជើង និងខោប្រឡាក់ភក់តាមផ្លូវ។",
+   "audio": "audio/c07.mp3"
+  },
+  {
+   "sec": "woods",
+   "img": "img/c08-scarecrow.svg",
+   "flat": true,
+   "alt": "Scarecrow figure in the dark trees",
+   "hook": "What if he comes?",
+   "ko": "'Let's get out of here! What if the scarecrow comes?' I whispered as leaves rustled behind us.",
+   "en": "«តោះចេញពីទីនេះ! ចុះបើមនុស្សចំបើងមកមែនទែន?» ខ្ញុំខ្សឹបពេលឮសំឡេងកកិតស្លឹកឈើនៅពីក្រោយយើង។",
+   "audio": "audio/c08.mp3"
+  },
+  {
+   "sec": "truth",
+   "img": "img/c09-bag-poles.svg",
+   "flat": true,
+   "alt": "Sophie running with the tent pole bag",
+   "hook": "RUN!",
+   "ko": "Sophie ran toward a bag, grabbed our missing tent poles, and yelled 'RUN!' as we bolted back to camp.",
+   "en": "Sophie បានរត់ទៅរកកាតាបមួយ ចាប់យកបង្គោលតង់ដែលបាត់ ហើយស្រែកថា «រត់!» ពេលយើងរត់ត្រឡប់មកជំរំវិញ។",
+   "audio": "audio/c09.mp3"
+  },
+  {
+   "sec": "truth",
+   "img": "img/c10-tent.svg",
+   "flat": true,
+   "alt": "Happy campers with tent poles returned",
+   "hook": "scarecrows don't need poles",
+   "ko": "We tossed the bag to Joe, laughing nervously: 'Let's just say scarecrows don't need tent poles!'",
+   "en": "យើងបានបោះកាតាបឱ្យ Joe ទាំងសើចញឹមៗបែបភ័យ៖ «គ្រាន់តែចង់ប្រាប់ថាមនុស្សចំបើងមិនត្រូវការបង្គោលតង់ទេ!»។",
+   "audio": "audio/c10.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "title": "Text Analysis & Reading Strategy",
+   "small": "សំនួរយល់ដឹងពីប្រភេទអត្ថបទ",
+   "note": "Book Activity 1 (p. 60): Identify story genre and analyze mood.",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "What type of story is this, and how does it make the reader feel?",
+     "qen": "តើរឿងនេះជាប្រភេទរឿងអ្វី ហើយវាធ្វើឱ្យអ្នកអានមានអារម្មណ៍បែបណា?",
+     "qaudio": "audio/qt1.mp3",
+     "a": "It is an adventure mystery story. It creates suspense and nervousness at first, but ends with laughter and relief.",
+     "aen": "វាជារឿងផ្សងព្រេងបែបអាថ៌កំបាំង។ ដំបូងវាបង្កើតភាពអន្ទះសារ និងភ័យខ្លាច ប៉ុន្តែបញ្ចប់ដោយសំណើច និងការធូរស្រាលក្នុងចិត្ត។",
+     "why": "Stories often mix suspense (fear of the unknown) with adventure to keep readers engaged.",
+     "audio": "audio/at1.mp3"
+    },
+    {
+     "q": "Why was arriving at the campsite confusing and anxiety-provoking?",
+     "qen": "ហេតុអ្វីបានជាការមកដល់កន្លែងបោះតង់បង្កឱ្យមានការភ័ន្តច្រឡំ និងការព្រួយបារម្ភ?",
+     "qaudio": "audio/qt2.mp3",
+     "a": "It was pitch black, completely empty, and the essential tent poles were mysteriously missing from the luggage.",
+     "aen": "ពីព្រោះទីនោះងងឹតស្លុប ស្ងាត់ជ្រងំ ហើយបង្គោលតង់ដ៏សំខាន់បែរជាបាត់ពីឥវ៉ាន់យ៉ាងអាថ៌កំបាំង។",
+     "why": "Unfamiliar surroundings late at night naturally heighten anxiety in campers.",
+     "audio": "audio/at2.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Comprehension & Discussion Questions",
+   "small": "ការពិភាក្សាជាដៃគូ និងការយល់ដឹងពីសាច់រឿង",
+   "note": "Book Activity 2 (p. 61): Pair discussion and social-emotional reflection.",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "Why is the story scary? What parts build fear and suspense?",
+     "qen": "ហេតុអ្វីបានជារឿងនេះគួរឱ្យខ្លាច? តើផ្នែកណាខ្លះដែលបង្កើតការភ័យខ្លាច?",
+     "qaudio": "audio/qc1.mp3",
+     "a": "The dark woods, the ghost legend of hands sliding into tents, the rustling leaves, and finding lost clothes in the forest build suspense.",
+     "aen": "ព្រៃងងឹត រឿងព្រេងខ្មោចអំពីដៃលូកចូលតង់ សំឡេងកកិតស្លឹកឈើ និងការឃើញសម្លៀកបំពាក់ជ្រុះក្នុងព្រៃ សុទ្ធតែបង្កើនភាពភ័យខ្លាច។",
+     "audio": "audio/ac1.mp3"
+    },
+    {
+     "q": "Who or what do you think was taking things from the campers?",
+     "qen": "តើអ្នកគិតថាអ្នកណា ឬអ្វីដែលបានលួចយករបស់របរពីអ្នកបោះតង់?",
+     "qaudio": "audio/qc2.mp3",
+     "a": "It could be playful campers playing pranks or animals, but someone had used the clothes to build the legendary scarecrow!",
+     "aen": "វាអាចជាអ្នកបោះតង់លេងសើច ឬជាសត្វព្រៃ ប៉ុន្តែមានអ្នកណាម្នាក់បានយកសម្លៀកបំពាក់ទាំងនោះទៅធ្វើជាមនុស្សចំបើងក្នុងរឿងព្រេង!",
+     "audio": "audio/ac2.mp3"
+    },
+    {
+     "q": "What social and emotional skill does this story teach about dealing with fear?",
+     "qen": "តើរឿងនេះបង្រៀនជំនាញសង្គម និងអារម្មណ៍អ្វីខ្លះអំពីការដោះស្រាយការភ័យខ្លាច?",
+     "qaudio": "audio/qc3.mp3",
+     "a": "It teaches us to stay calm, support our friends, look for logical answers, and use humor to overcome fright.",
+     "aen": "វាបង្រៀនយើងឱ្យរក្សាភាពស្ងប់ស្ងាត់ ជួយគាំទ្រមិត្តភក្តិ ស្វែងរកការពិត និងប្រើសំណើចដើម្បីយកឈ្នះការភ័យខ្លាច។",
+     "audio": "audio/ac3.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Storytelling Expressions",
+   "small": "ឃ្លាសំខាន់ៗសម្រាប់ការសន្ទនា និងការនិទានរឿង",
+   "note": "Practice saying these key story lines in your head, then tap to listen.",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "I was so excited, I couldn't wait to explore the countryside.",
+     "en": "ខ្ញុំរំភើបចិត្តខ្លាំងណាស់ ខ្ញុំទន្ទឹងរង់ចាំដើរលេងនៅជនបទមិនចង់ទាន់។",
+     "audio": "audio/s01.mp3"
+    },
+    {
+     "ko": "Don't be silly, nobody has ever seen him.",
+     "en": "កុំឆ្កួតអី គ្មានអ្នកណាធ្លាប់ឃើញគាត់នោះទេ។",
+     "audio": "audio/s02.mp3"
+    },
+    {
+     "ko": "Let's just say scarecrows don't need tent poles!",
+     "en": "គ្រាន់តែចង់ប្រាប់ថាមនុស្សចំបើងមិនត្រូវការបង្គោលតង់ទេ!",
+     "audio": "audio/s03.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "Camping & Adventure",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "campsite",
+     "en": "កន្លែងបោះតង់",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "tent poles",
+     "en": "បង្គោលតង់",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "campfire",
+     "en": "ភ្នក់ភ្លើង",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "marshmallows",
+     "en": "ស្ករគ្រាប់ម៉ាសម៉ាឡូ",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "countryside",
+     "en": "ជនបទ",
+     "audio": "audio/v05.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Mystery & Fear",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "pitch black",
+     "en": "ងងឹតស្លុប",
+     "audio": "audio/v06.mp3"
+    },
+    {
+     "ko": "scarecrow",
+     "en": "មនុស្សចំបើង",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "mysteriously",
+     "en": "ដោយអាថ៌កំបាំង",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "rustling leaves",
+     "en": "សំឡេងកកិតស្លឹកឈើ",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "anxious",
+     "en": "ព្រួយបារម្ភ/ភ័យខ្លាច",
+     "audio": "audio/v10.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Actions & Reactions",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "explore",
+     "en": "រុករក/ដើរលេង",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "complain",
+     "en": "រអ៊ូរទាំ",
+     "audio": "audio/v12.mp3"
+    },
+    {
+     "ko": "persuade",
+     "en": "បញ្ចុះបញ្ចូល",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "burst into laughter",
+     "en": "ផ្ទុះសំណើច",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "laugh nervously",
+     "en": "សើចបែបភ័យៗ",
+     "audio": "audio/v15.mp3"
+    }
+   ]
+  }
+ ],
+ "full": [
+  {
+   "title": "Packing & Departure · ការវេចខ្ចប់ និងការចេញដំណើរ",
+   "ko": "One Friday night at our adventure camp, our instructors Joe and Natalie told us to pack our bags. I was thrilled to explore the countryside and learn how to fish, but Sophie wanted to stay and go swimming.",
+   "en": "នៅយប់ថ្ងៃសុក្រមួយនៅជំរំផ្សងព្រេង គ្រូបង្ហាត់របស់យើង Joe និង Natalie បានប្រាប់ពួកយើងឱ្យរៀបចំកាតាប។ ខ្ញុំរំភើបចិត្តចង់ដើរលេងនៅជនបទ និងរៀនស្ទូចត្រី ប៉ុន្តែ Sophie ចង់នៅហែលទឹកវិញ។"
+  },
+  {
+   "title": "Arriving at Camp · ការមកដល់កន្លែងបោះតង់",
+   "ko": "There was lots of traffic and it was pitch black when we arrived, with the only light coming from the moon. Joe gave us hot chocolate to keep us calm, but when it was time to put up the tent, the tent poles were missing! 'Don't worry, this will be a great test! We'll just have to sleep under the stars tonight!' Joe said.",
+   "en": "មានការកកស្ទះចរាចរណ៍យ៉ាងខ្លាំង ហើយពេលយើងទៅដល់ គឺងងឹតស្លុបដោយមានតែពន្លឺព្រះច័ន្ទប៉ុណ្ណោះ។ Joe បានឱ្យយើងផឹកសូកូឡាក្តៅដើម្បីបន្ធូរអារម្មណ៍ ប៉ុន្តែពេលដល់ពេលត្រូវបោះតង់ ស្រាប់តែរកបង្គោលតង់មិនឃើញ! Joe និយាយថា «កុំបារម្ភអី នេះជាការសាកល្បងដ៏អស្ចារ្យ! យប់នេះយើងនឹងគេងក្រោមពន្លឺផ្កាយ!»។"
+  },
+  {
+   "title": "Joe's Campfire Story · រឿងនិទានជុំវិញភ្នក់ភ្លើង",
+   "ko": "We toasted marshmallows by the campfire as Joe started telling us a spooky story about a mysterious scarecrow.",
+   "en": "យើងបានដុតស្ករគ្រាប់ម៉ាសម៉ាឡូជុំវិញភ្នក់ភ្លើង ពេលដែល Joe ចាប់ផ្តើមនិទានរឿងខ្មោចអំពីមនុស្សចំបើងដ៏អាថ៌កំបាំង។"
+  },
+  {
+   "title": "Mystery in the Woods · អាថ៌កំបាំងក្នុងព្រៃ",
+   "ko": "The next morning, Sophie and I walked through the forest and began seeing trails of straw, socks, and muddy trousers. 'Let's get out of here! What if the scarecrow comes?' I whispered as leaves rustled behind us.",
+   "en": "ព្រឹកបន្ទាប់ ខ្ញុំនិង Sophie បានដើរកាត់ព្រៃ ហើយចាប់ផ្តើមឃើញកំទេចចំបើង ស្រោមជើង និងខោប្រឡាក់ភក់តាមផ្លូវ។ «តោះចេញពីទីនេះ! ចុះបើមនុស្សចំបើងមកមែនទែន?» ខ្ញុំខ្សឹបពេលឮសំឡេងកកិតស្លឹកឈើនៅពីក្រោយយើង។"
+  },
+  {
+   "title": "The Scarecrow's Secret · អាថ៌កំបាំងរបស់មនុស្សចំបើង",
+   "ko": "Sophie ran toward a bag, grabbed our missing tent poles, and yelled 'RUN!' as we bolted back to camp. We tossed the bag to Joe, laughing nervously: 'Let's just say scarecrows don't need tent poles!'",
+   "en": "Sophie បានរត់ទៅរកកាតាបមួយ ចាប់យកបង្គោលតង់ដែលបាត់ ហើយស្រែកថា «រត់!» ពេលយើងរត់ត្រឡប់មកជំរំវិញ។ យើងបានបោះកាតាបឱ្យ Joe ទាំងសើចញឹមៗបែបភ័យ៖ «គ្រាន់តែចង់ប្រាប់ថាមនុស្សចំបើងមិនត្រូវការបង្គោលតង់ទេ!»។"
+  }
+ ]
+}
